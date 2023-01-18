@@ -26,7 +26,7 @@ Console.WriteLine("max = " + max + "и" + " min = " + min  );*/
 /*Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.*/
 
 
-int  a , b , c;
+/*int  a , b , c;
 
 Console.Write(" Введите Имя   ");
 string? username = Console.ReadLine();
@@ -50,4 +50,4 @@ Console.WriteLine("Введите число b");
  {
     max = c;
  }
- Console.WriteLine("max = " + max);
+ Console.WriteLine("max = " + max);*/
