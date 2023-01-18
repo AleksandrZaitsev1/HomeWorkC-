@@ -51,3 +51,23 @@ Console.WriteLine("Введите число b");
     max = c;
  }
  Console.WriteLine("max = " + max);*/
+
+ /* Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).*/
+
+ /*Console.Write(" Введите Имя   ");
+string? username = Console.ReadLine();
+Console.Write("Привет!");
+Console.WriteLine(username);
+
+Console.WriteLine("Введите число ");
+ int number = Convert.ToInt32(Console.ReadLine());
+ int remDiv = number % 2;
+
+ if (remDiv ==0)
+ {
+    Console.WriteLine("Число четное");
+ }
+ else
+ {
+    Console.WriteLine("Число нечетное");
+ }*/
